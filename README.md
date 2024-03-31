@@ -37,6 +37,6 @@ https://docs.google.com/spreadsheets/d/1Ur-Xil7NBmVHBf1PiQE9weY8ShV_R0-NBo7UuwXA
 ## Issue report
 https://docs.google.com/spreadsheets/d/1cIrecIi7kHHbld4l9WrvSLbQB_MHNwP5-5h3sXNiQrE/edit?usp=drive_link
 
-## Output!
+## Output
 ![newman_report](https://github.com/touhid-96/API-Automation-Testing-of-DMoney-API/assets/29010371/0ba694cf-d8bb-4952-bdc0-f0fdc57e24f0)
 
