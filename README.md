@@ -38,4 +38,4 @@ https://docs.google.com/spreadsheets/d/1Ur-Xil7NBmVHBf1PiQE9weY8ShV_R0-NBo7UuwXA
 https://docs.google.com/spreadsheets/d/1cIrecIi7kHHbld4l9WrvSLbQB_MHNwP5-5h3sXNiQrE/edit?usp=drive_link
 
 ## Output!
-![Screenshot (31)](https://github.com/touhid-96/API-Automation-Testing-of-DMoney-API/assets/29010371/2db0033d-db0a-454e-85e6-560ac13365d0)
+![Screenshot (31)](https://drive.google.com/file/d/1qyBXVSc2BVH7rxmdpKR0xm9rZlK9_ynw/view?usp=drive_link)
