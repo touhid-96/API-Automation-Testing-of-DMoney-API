@@ -19,11 +19,11 @@
 ## How to run this project
 - clone this project
 - hit the following command:
-  - npm init -y 
-  - npm i newman 
-  - npm i newman-reporter-htmlextra 
-  - npm i 
-  - npm test 
+  1. `npm init -y` 
+  2. `npm i newman`
+  3. `npm i newman-reporter-htmlextra`
+  4. `npm i`
+  5. `npm test`
 
 ## Prerequisite
 - Node.js must be installed
